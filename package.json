@@ -1,0 +1,14 @@
+{
+  "name": "selenium_bot_js",
+  "version": "1.0.0",
+  "description": "* This repo serves as the code base for a javascriptn project that tests the functionality of Selenium Webdriver. * [Selenium javascript module](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver) * [Selenium javascript docs](https://seleniumhq.github.io/selenium/docs/api/javascript/module/selenium-webdriver/) * [Selenium IDE and WebDriver Docs](hhttps://www.seleniumhq.org/docs/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}
